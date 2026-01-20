@@ -1,0 +1,7 @@
+C:\Users\v-upullagura\source\repos\public-apis\AzureContainerAppsDemo\AzureContainerAPPs\AzureContainerAPPs\obj\Docker\publish\AzureContainerAPPs.exe
+C:\Users\v-upullagura\source\repos\public-apis\AzureContainerAppsDemo\AzureContainerAPPs\AzureContainerAPPs\obj\Docker\publish\appsettings.Development.json
+C:\Users\v-upullagura\source\repos\public-apis\AzureContainerAppsDemo\AzureContainerAPPs\AzureContainerAPPs\obj\Docker\publish\appsettings.json
+C:\Users\v-upullagura\source\repos\public-apis\AzureContainerAppsDemo\AzureContainerAPPs\AzureContainerAPPs\obj\Docker\publish\AzureContainerAPPs.dll
+C:\Users\v-upullagura\source\repos\public-apis\AzureContainerAppsDemo\AzureContainerAPPs\AzureContainerAPPs\obj\Docker\publish\AzureContainerAPPs.deps.json
+C:\Users\v-upullagura\source\repos\public-apis\AzureContainerAppsDemo\AzureContainerAPPs\AzureContainerAPPs\obj\Docker\publish\AzureContainerAPPs.runtimeconfig.json
+C:\Users\v-upullagura\source\repos\public-apis\AzureContainerAppsDemo\AzureContainerAPPs\AzureContainerAPPs\obj\Docker\publish\AzureContainerAPPs.pdb
