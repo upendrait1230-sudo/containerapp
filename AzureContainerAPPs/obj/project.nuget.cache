@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xp3Txm978Io=",
+  "dgSpecHash": "tO4Fvsp4ESg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\v-upullagura\\source\\repos\\public-apis\\AzureContainerAppsDemo\\AzureContainerAPPs\\AzureContainerAPPs\\AzureContainerAPPs.csproj",
+  "projectFilePath": "C:\\Users\\v-upullagura\\source\\repos\\containerAPP\\AzureContainerAPPs\\AzureContainerAPPs.csproj",
   "expectedPackageFiles": [
     "C:\\.tools\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
   ],

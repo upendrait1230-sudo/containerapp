@@ -105,11 +105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\v-upullagura\\source\\repos\\public-apis\\AzureContainerAppsDemo\\AzureContainerAPPs\\AzureContainerAPPs\\AzureContainerAPPs.csproj",
+      "projectUniqueName": "C:\\Users\\v-upullagura\\source\\repos\\containerAPP\\AzureContainerAPPs\\AzureContainerAPPs.csproj",
       "projectName": "AzureContainerAPPs",
-      "projectPath": "C:\\Users\\v-upullagura\\source\\repos\\public-apis\\AzureContainerAppsDemo\\AzureContainerAPPs\\AzureContainerAPPs\\AzureContainerAPPs.csproj",
+      "projectPath": "C:\\Users\\v-upullagura\\source\\repos\\containerAPP\\AzureContainerAPPs\\AzureContainerAPPs.csproj",
       "packagesPath": "C:\\.tools\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\v-upullagura\\source\\repos\\public-apis\\AzureContainerAppsDemo\\AzureContainerAPPs\\AzureContainerAPPs\\obj\\",
+      "outputPath": "C:\\Users\\v-upullagura\\source\\repos\\containerAPP\\AzureContainerAPPs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
