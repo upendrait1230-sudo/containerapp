@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureContainerAPPs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89a20c58ce560e6c2c5d1503097952f98d097e1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+557ec9315c05fa3db59102ad679bafce22aa2951")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureContainerAPPs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureContainerAPPs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
